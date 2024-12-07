@@ -1,0 +1,14 @@
+﻿  win32_platform.cpp
+D:\cpp\asoingbob\spongeagainagain\spongeagainagain\renderer.cpp(42,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\cpp\asoingbob\spongeagainagain\spongeagainagain\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\cpp\asoingbob\spongeagainagain\spongeagainagain\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+D:\cpp\asoingbob\spongeagainagain\spongeagainagain\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+  spongeagainagain.vcxproj -> D:\cpp\asoingbob\spongeagainagain\x64\Debug\spongeagainagain.exe
